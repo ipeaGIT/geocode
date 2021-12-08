@@ -29,6 +29,14 @@ f_cadunico_familia <- function(year){
 
   # year <- 2011
   
+  66666666666666 CRIAR COLUNA COM BAIRRO
+  DECIDIR QUAL INCLUIR:
+    no_localidade_fam
+    OU
+    no_unidade_territorial_fam
+    
+  VER MANUAL DO ENTREVISTADOR PARA ESCLARECER
+  
   # select columns to read
   colunas_familia <- c(
     'co_uf',
